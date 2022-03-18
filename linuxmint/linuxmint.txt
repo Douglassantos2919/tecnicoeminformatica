@@ -1,2 +1,7 @@
 Primeiira etapa.: Criar o Pendriver do Linux mint;
+Dowload do linux mint: https://linuxmint.com/edition.php?id=292
+Rufus: https://rufus.ie/pt_BR/
+
 Segunda etapa..: Bootar no Notbook com o Pendriver do Linux Mint;
+Terceira etapa.: Formatar o Instalar o Linux mint
+tecla de inicialização: F8
