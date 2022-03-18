@@ -1,0 +1,2 @@
+Primeiira etapa.: Criar o Pendriver do Linux mint;
+Segunda etapa..: Bootar no Notbook com o Pendriver do Linux Mint;
